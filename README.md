@@ -231,13 +231,13 @@ The project separates reusable components, pages, and API/service logic to keep 
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/BemnetMandefro/React-Group.git>
+git clone <https://github.com/Biniam-Girma-cyber/production management dashboard.git>
 ```
 
 ### 2. Navigate to the Project
 
 ```bash
-cd <React-Group>
+cd <production management dashboard>
 ```
 
 ### 3. Install Dependencies
@@ -395,16 +395,16 @@ The GitHub repository history may be used to verify individual contributions.
 ### Team Members
 
 | No. | Name              | Role / Contribution |
-| --: | ----------------- | ------------------- |
-|   1 | **[Member Name]** | [Contribution]      |
-|   2 | **[Member Name]** | [Contribution]      |
-|   3 | **[Member Name]** | [Contribution]      |
-|   4 | **[Member Name]** | [Contribution]      |
-|   5 | **[Member Name]** | [Contribution]      |
+| --: | -----------------       | ---------------------|
+|   1 | **[Biniam Girma]**      | [pages]              |
+|   2 | **[Bemnet Mandefro]**   | []                   |
+|   3 | **[Emnet Tesfaye]**     | []                   |
+|   4 | **Selam Dilnesa]**      | []                   |
+|   5 | **Fikadu Walie Worku]** | []                   |
 
 ### Group Leader
 
-**Name:** [Group Leader Name]
+**Name:** Bemnet Mandefro
 
 The group leader coordinates the repository, Issues, assignments, Pull Requests, reviews, and final submission.
 
