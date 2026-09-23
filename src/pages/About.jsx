@@ -9,7 +9,7 @@ function About() {
           Simple shopping, organized clearly.
         </h1>
         <p className="mt-6 max-w-3xl text-lg leading-8 text-slate-300">
-          Nexus Store is a learning-focused online store dashboard built with
+          PRODEXA Store is a learning-focused online store dashboard built with
           React. It demonstrates reusable components, state management, forms,
           API integration, filtering, and navigation.
         </p>
