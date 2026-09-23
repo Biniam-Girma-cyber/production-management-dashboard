@@ -231,13 +231,13 @@ The project separates reusable components, pages, and API/service logic to keep 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/BemnetMandefro/React-Group.git>
 ```
 
 ### 2. Navigate to the Project
 
 ```bash
-cd <project-name>
+cd <React-Group>
 ```
 
 ### 3. Install Dependencies
@@ -610,22 +610,3 @@ Developed collaboratively by the **Nexus Academy React Group**.
 ## 📄 License
 
 This project was created for educational purposes as part of the Nexus Academy React Group Assignment.
-
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-#   p r o d u c t i o n - m a n a g e m e n t - d a s h b o a r d 
- 
- 
