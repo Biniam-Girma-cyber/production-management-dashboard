@@ -231,7 +231,7 @@ The project separates reusable components, pages, and API/service logic to keep 
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/BemnetMandefro/React-Group.git>
+git clone <https://github.com/Biniam-Girma-Cyber/production management dashboard.git>
 ```
 
 ### 2. Navigate to the Project
