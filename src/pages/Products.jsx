@@ -46,7 +46,12 @@ function Products() {
       return matchesSearch && matchesCategory;
     });
   }, [products, searchText, category]);
+  
+  const handleAddToCart = (product) => {
+    alert(`Added "${product.title}" to cart!`);
+  };
 
+ 
   return (
     <section className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
       <div className="mb-10">
@@ -123,7 +128,7 @@ function Products() {
           ) : (
             <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
               {filteredProducts.map((product) => (
-                <ProductCard key={product.id} product={product} />
+                <ProductCard key={product.id} product={product} onAddToCart={handleAddToCart}  />
               ))}
             </div>
           )}

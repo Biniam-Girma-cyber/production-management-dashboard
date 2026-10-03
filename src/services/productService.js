@@ -1,4 +1,4 @@
-const BASE_URL = "https://fakestoreapi.com/products";
+const BASE_URL = " https://dummyjson.com/products ";
 
 export async function getProducts() {
   const response = await fetch(BASE_URL);
@@ -8,5 +8,5 @@ export async function getProducts() {
   }
 
   const data = await response.json();
-  return data;
+  return data.products;
 }
