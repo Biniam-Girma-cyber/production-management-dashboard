@@ -449,11 +449,7 @@ When a conflict occurs:
 Example conflict markers:
 
 ```text
-<<<<<<< HEAD
-your code
-=======
 other branch's code
->>>>>>> branch-name
 ```
 
 ---
