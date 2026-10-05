@@ -460,69 +460,56 @@ Before submission, the team should verify:
 
 * [x] Home page works
 * [x] Products page works
-* [ x] About page works
-* [ ] Contact page works
-* [ ] Login page works
-* [ ] Products are fetched from the Fake Store API
-* [ ] No local `products.js` mock dataset is used
-* [ ] Loading state works
-* [ ] API error state works
-* [ ] Product information displays correctly
-* [ ] Product search works
-* [ ] Category filtering works
-* [ ] Search and category filtering work together
-* [ ] Empty search results are handled
-* [ ] `ProductCard` is reusable
-* [ ] Props and `useState` are used appropriately
-* [ ] React Router is implemented
-* [ ] `Link` and `NavLink` are used
-* [ ] Tailwind CSS is used
-* [ ] Application is responsive
-* [ ] No console errors
-* [ ] GitHub Issues were used
-* [ ] Feature branches were used
-* [ ] Meaningful commits were made
-* [ ] Pull Requests were created
-* [ ] Code reviews were performed
-* [ ] At least one merge conflict was resolved
-* [ ] README is complete
-* [ ] Every team member contributed
+* [x] About page works
+* [x] Contact page works
+* [x] Login page works
+* [x] Products are fetched from the Fake Store API
+* [x] No local `products.js` mock dataset is used
+* [x] Loading state works
+* [x] API error state works
+* [x] Product information displays correctly
+* [x] Product search works
+* [x] Category filtering works
+* [x] Search and category filtering work together
+* [x] Empty search results are handled
+* [x] `ProductCard` is reusable
+* [x] Props and `useState` are used appropriately
+* [x] React Router is implemented
+* [x] `Link` and `NavLink` are used
+* [x] Tailwind CSS is used
+* [x] Application is responsive
+* [x] No console errors
+* [x] GitHub Issues were used
+* [x] Feature branches were used
+* [x] Meaningful commits were made
+* [x] Pull Requests were created
+* [x] Code reviews were performed
+* [x] At least one merge conflict was resolved
+* [x] README is complete
+* [x] Every team member contributed
 
 ---
 
 ## 📸 Screenshots
 
-Add screenshots of the completed application here.
+
 
 ### Home Page
 
-```text
-[Add screenshot here]
-```
+![home page](./public/images/home.png)
 
 ### Products Page
 
-```text
-[Add screenshot here]
-```
+![product page](./public/images/product.png)
 
-### Product Search & Filter
 
-```text
-[Add screenshot here]
-```
 
 ### Contact Page
 
-```text
-[Add screenshot here]
-```
+![contact page](./public/imagescontact.png)
 
 ### Login Page
-
-```text
-[Add screenshot here]
-```
+![login page](./public/images/login.png)
 
 ---
 
