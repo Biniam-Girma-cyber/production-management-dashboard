@@ -1,4 +1,4 @@
-feature/category-filter
+
 function CategoryFilter({ categories, selectedCategory, onCategoryChange }) {
   return (
     <div className="w-full sm:w-56">

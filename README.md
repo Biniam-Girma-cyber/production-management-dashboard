@@ -458,9 +458,9 @@ other branch's code
 
 Before submission, the team should verify:
 
-* [ ] Home page works
-* [ ] Products page works
-* [ ] About page works
+* [x] Home page works
+* [x] Products page works
+* [ x] About page works
 * [ ] Contact page works
 * [ ] Login page works
 * [ ] Products are fetched from the Fake Store API
